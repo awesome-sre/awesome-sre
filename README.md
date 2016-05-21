@@ -60,7 +60,7 @@ If you see an entry that is no longer maintained or is not a good fit, please su
 
 *Tools and systems for monitoring and instrumentation of services.*
 
-* [Prometheus](https://promenteus.io)
+* [Prometheus](https://prometheus.io)
 
 
 ## Orchestration
