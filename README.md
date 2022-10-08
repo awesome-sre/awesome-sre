@@ -60,8 +60,8 @@ If you see an entry that is no longer maintained or is not a good fit, please su
 
 *Tools and systems for monitoring and instrumentation of services.*
 
+* [Hydrozen.io](https://hydrozen.io) - Uptime monitoring service with built-in Statuspage
 * [Prometheus](https://prometheus.io)
-* [Hydrozen.io](https://hydrozen.io)
 
 
 ## Orchestration
